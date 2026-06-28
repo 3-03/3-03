@@ -22,6 +22,7 @@ Just a developer writing code and building things. Welcome to my GitHub! ✌️
 
 ---
 
-### 📫 How to reach me
+### 📫 My socials
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/368715072484409354)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/oculist/)
